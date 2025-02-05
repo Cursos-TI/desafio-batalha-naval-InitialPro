@@ -12,7 +12,7 @@ int main() {
     int navios[2] = {1,2};
 
     printf("Parte do Navio horizontal posicionado na casa %d\n", navios[0]);
-    printf("Parte do Navio vertica posicionado na casa %d\n", navios[1]);
+    printf("Parte do Navio vertical posicionado na casa %d\n", navios[1]);
     // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
     // Sugestão: Expanda o tabuleiro para uma matriz 10x10.
     // Sugestão: Posicione quatro navios no tabuleiro, incluindo dois na diagonal.
